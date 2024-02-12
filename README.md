@@ -12,7 +12,7 @@ At the forefront of academic concerns about LLMs is their potential to enable pl
 
 Vanderbilt University, together with ​The Learning Agency Lab, an independent nonprofit based in Arizona, have collaborated with Kaggle on this competition
 
-
+### 説明
 LLM - Detect AI Generated Textに参加した際のコードをまとめました。
 
 このコンペティションでは、データセットに記載されている文章が人間が書かれたものか生成されたものかを判別するタスクです。
