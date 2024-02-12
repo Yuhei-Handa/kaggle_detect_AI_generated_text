@@ -21,7 +21,7 @@ LLM - Detect AI Generated Textに参加した際のコードをまとめまし�
 そのため、外部にあるデータセットを使用して水増しすることで対応しました。
 
 文章分類にはrobertaを使用しました。学習済みモデルは以下に記載いたします。
-[Yuhei0531/kaggle_llm_detect_512tokens_top](Yuhei0531/kaggle_llm_detect_512tokens_top)
+[https://huggingface.co/Yuhei0531/kaggle_llm_detect_512tokens_top](https://huggingface.co/Yuhei0531/kaggle_llm_detect_512tokens_top)
 
 trainファイルでは文頭から1024文字を使用して分類。
 train_openai_512ファイルでは文頭と文末から512文字ずつ抽出して分類。
