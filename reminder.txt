@@ -1,0 +1,2 @@
+distilbert-base-uncased-finetuned-sst-2-english(感情分析学習済みモデル)を利用 ---×
+Robertaを用いる

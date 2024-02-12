@@ -1,1 +1,1 @@
-# kaggle_detect_AI_generated_text
+# kaggle_LLM_Detect_AI_Generated_Text
